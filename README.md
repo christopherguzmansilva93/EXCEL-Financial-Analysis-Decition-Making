@@ -1,2 +1,2 @@
-# Corporate-Finance-Report-
-Conducted a thorough financial analysis encompassing macroeconomic, industry-level, and firm-specific factors. This involved assessing risk profiles (beta), measuring returns (stock market and accounting), capital budgeting, and financing analysis.
+# Financial-Analysis-Decition-Making-
+Utilized advanced Excel functions to study the financial impact of disruptive digitization on the S&P500. Using PivotTables, identified significant growth in Cash hoards and Intangible Assets for younger, digital companies. Built models to evaluate: (a) growth and profits by distribution channel; (b) make-buy decisions, ETC
